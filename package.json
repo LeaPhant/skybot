@@ -31,7 +31,7 @@
     "moment-duration-format": "^2.3.2",
     "moment-timezone": "^0.5.31",
     "numeral": "^2.0.6",
-    "object-path": "^0.11.4",
+    "object-path": "^0.11.5",
     "semver": "^7.3.2"
   }
 }

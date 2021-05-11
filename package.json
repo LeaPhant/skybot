@@ -25,7 +25,7 @@
     "discord.js": "^12.2.0",
     "jaro-winkler": "^0.2.8",
     "keyv": "^4.0.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mathjs": "^6.6.4",
     "moment": "^2.27.0",
     "moment-duration-format": "^2.3.2",

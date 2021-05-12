@@ -26,7 +26,7 @@
     "jaro-winkler": "^0.2.8",
     "keyv": "^4.0.1",
     "lodash": "^4.17.20",
-    "mathjs": "^6.6.4",
+    "mathjs": "^7.5.1",
     "moment": "^2.27.0",
     "moment-duration-format": "^2.3.2",
     "moment-timezone": "^0.5.31",
